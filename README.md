@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1> Hi! My name is Cardoso. </h1>
 
 <div>
-  <a href="https://github.com/cardozaum">
+  <a href="https://github.com/Cardozaum">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=cardozaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardozaum&layout=compact&langs_count=7&theme=react" />
 
